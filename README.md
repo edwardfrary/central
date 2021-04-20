@@ -1,6 +1,7 @@
 # Run Buddy, Inc
 
 ## Purpose
+<<<<<<< Updated upstream
 A website that offers fitness training services. 
 
 ## Built With
@@ -14,3 +15,6 @@ https://lernantino.github.io/run-buddy/
 Made with ❤️ by [your name]
 
 ### ©️2019 Run Buddy, Inc 
+=======
+A website that offers fitness training services. 
+>>>>>>> Stashed changes
